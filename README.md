@@ -12,7 +12,10 @@ Documentation of TRAK System-Kerala State Road Transport Corporation
 ### Trak Seva
 This is an android application that which is made for every employee of KSRTC,it will be available in google play store for downloading.
 ### Authority Dashboards
-
+- #### Dashboard for chief officer
+- #### Dashboard for every depots
+- #### Dashboard for every mechanical wing
+These dashboards are web based,so no need of any other installs rather than a web browser to access all functionalities.
 ## How to Use?
 ### Trak Seva
 Every employee can login with their departmental credentials.After that they can use their respective modules designed as per their designation
