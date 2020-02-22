@@ -2,11 +2,11 @@
 Documentation of TRAK System-Kerala State Road Transport Corporation
 
 ## Introduction & Overview
-### TRAM (Trip and Resource Automation for KSRTC) is a complete management system and automation software which is developed for efficient working of KSRTC.
+### TRAK (Trip and Resource Automation for KSRTC) is a complete management system and automation software which is developed for efficient working of KSRTC.TRAK is not just a software,it consists of multiple softwares for differnt purposes and hardware components also.
 ## Getting Started
+### TRAK system is well organised and 
 ## Prerequisites
 - Basic computer & smartphone knowledge
-- Bluetooth portable ticket printer (IF CONDUCTOR IS USING MODULE1 OF TRAK SEVA)
 - Bluetooth portable ticket printer (IF CONDUCTOR IS USING MODULE1 OF TRAK SEVA)
 ## How to Install?
 ### Trak Seva
@@ -29,8 +29,11 @@ This is an easy to use application that can use to find buses in realtime,find s
 ## Built With
 * FLUTTER - For building UIs User application TRAK YATRI for iOS and Android
 * DART - For developing InApp computations and processing of User application TRAK YATRI for iOS and Android
+* Apache Storm - Data analytics and prediction
+* Apache Cassandra - For bigData storage
 * XML - For building UIs in Employee application TRAK SEVA
 * JAVA - For developing InApp computations and processing of Employee application TRAK SEVA
+* sqlLite - Local storage for Native Android
 * Google Maps API - For embedding Map activities and for live tracking
 * Web Essentials (HTML,CSS,JS,Bootstrap,JQuery)- Web Dev
 * DialogueFlow - AI chatbot
@@ -41,6 +44,7 @@ This is an easy to use application that can use to find buses in realtime,find s
 ## Versioning
 #### The current stable version v1.0 is ready to release
 ## Acknowledgement
+Only open source libraries,packages and media resources are used in this project.
 
 ## Contact Info
 #### Developed by TEAM ZEROBUG
