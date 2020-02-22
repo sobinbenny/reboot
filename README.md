@@ -16,9 +16,15 @@ This is an android application that which is made for every employee of KSRTC,it
 - #### Dashboard for every depots
 - #### Dashboard for every mechanical wing
 These dashboards are web based,so no need of any other installs rather than a web browser to access all functionalities.
+### Trak Yatri
+This android application is developed and published in Google playstore and Apple AppStore.Anyone can download it and use.
 ## How to Use?
 ### Trak Seva
 Every employee can login with their departmental credentials.After that they can use their respective modules designed as per their designation
+### Authority Dashboards
+Authorisation credentials will be provided by the department for dashboard users.
+### Trak Yatri
+This is an easy to use application that can use to find buses in realtime,find speed of the bus,delay time for the bus to arrive at his/her position.
 
 ## Built With
 * FLUTTER - For building UIs User application TRAK YATRI for iOS and Android
