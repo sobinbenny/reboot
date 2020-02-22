@@ -15,6 +15,6 @@ Documentation of TRAK System-Kerala State Road Transport Corporation
 * Google Maps API -For embedding Map activities and for live tracking
 ## Contributing Policy
 ## Versioning
-
+#### The current stable version v1.0 is ready to release
 ## Acknowledgement
 ## Contact Info
