@@ -47,4 +47,4 @@ Only open source libraries,packages and media resources are used in this project
 
 ## Contact Info
 #### Developed by TEAM ZEROBUG
-##### All the copyrights reserved.
+##### All the copyrights are reserved.
