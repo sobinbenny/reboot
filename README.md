@@ -4,7 +4,6 @@ Documentation of TRAK System-Kerala State Road Transport Corporation
 ## Introduction & Overview
 ### TRAK (Trip and Resource Automation for KSRTC) is a complete management system and automation software which is developed for efficient working of KSRTC.TRAK is not just a software,it consists of multiple softwares for differnt purposes and hardware components also.
 ## Getting Started
-### TRAK system is well organised and 
 ## Prerequisites
 - Basic computer & smartphone knowledge
 - Bluetooth portable ticket printer (IF CONDUCTOR IS USING MODULE1 OF TRAK SEVA)
