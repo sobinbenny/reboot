@@ -35,4 +35,7 @@ Every employee can login with their departmental credentials.After that they can
 ## Versioning
 #### The current stable version v1.0 is ready to release
 ## Acknowledgement
+
 ## Contact Info
+#### Developed by TEAM ZEROBUG
+##### All the copyrights reserved.
